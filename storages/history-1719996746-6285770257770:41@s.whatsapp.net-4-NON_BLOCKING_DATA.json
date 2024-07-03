@@ -1,0 +1,2580 @@
+{
+  "syncType": 5,
+  "pastParticipants": [
+    {
+      "groupJID": "120363284689190262@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6285358574652@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719816888
+        },
+        {
+          "userJID": "6287870550319@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719732481
+        },
+        {
+          "userJID": "62895417910489@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719700168
+        },
+        {
+          "userJID": "6285258994006@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719404199
+        },
+        {
+          "userJID": "6285229483345@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719317726
+        },
+        {
+          "userJID": "6282280748849@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719230686
+        },
+        {
+          "userJID": "6287879843386@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719142873
+        },
+        {
+          "userJID": "6285281858547@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719060144
+        },
+        {
+          "userJID": "6282258115559@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718890690
+        },
+        {
+          "userJID": "6282261607047@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718888437
+        },
+        {
+          "userJID": "6285311125837@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718863836
+        },
+        {
+          "userJID": "6285736300018@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718781477
+        },
+        {
+          "userJID": "6282298782846@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718617203
+        },
+        {
+          "userJID": "6289681459490@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718510702
+        },
+        {
+          "userJID": "6282220008335@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718404460
+        },
+        {
+          "userJID": "6282385006794@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718172839
+        },
+        {
+          "userJID": "6285883991112@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718171846
+        },
+        {
+          "userJID": "6285712725009@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718107041
+        },
+        {
+          "userJID": "6285186020007@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718105660
+        },
+        {
+          "userJID": "6283817554262@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718015686
+        },
+        {
+          "userJID": "6285210001587@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717926933
+        },
+        {
+          "userJID": "6285920369262@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717856536
+        },
+        {
+          "userJID": "6285248267123@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717801071
+        },
+        {
+          "userJID": "6289605970772@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717735868
+        },
+        {
+          "userJID": "6285706372770@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717674040
+        },
+        {
+          "userJID": "6285823128823@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717667839
+        },
+        {
+          "userJID": "6285975047599@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1717571581
+        },
+        {
+          "userJID": "6285609228580@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717571258
+        },
+        {
+          "userJID": "6281284872528@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717486573
+        },
+        {
+          "userJID": "2349022944264@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1717455205
+        },
+        {
+          "userJID": "6281297291131@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717444369
+        },
+        {
+          "userJID": "628561951122@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717442238
+        },
+        {
+          "userJID": "6281332224149@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1717431059
+        },
+        {
+          "userJID": "6282332535530@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717416550
+        },
+        {
+          "userJID": "6285784803682@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717404473
+        },
+        {
+          "userJID": "6281315803081@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717391613
+        },
+        {
+          "userJID": "6285365452963@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717387943
+        },
+        {
+          "userJID": "6281310700346@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717387507
+        },
+        {
+          "userJID": "62811348359@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717378564
+        },
+        {
+          "userJID": "6282297793447@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717340458
+        },
+        {
+          "userJID": "6281803130031@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717316324
+        },
+        {
+          "userJID": "6282259426210@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717312040
+        },
+        {
+          "userJID": "6285607756488@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717244742
+        },
+        {
+          "userJID": "6281805205818@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717243384
+        },
+        {
+          "userJID": "6285269353383@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717229362
+        },
+        {
+          "userJID": "6282121214694@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717225076
+        },
+        {
+          "userJID": "6282128424239@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717221429
+        },
+        {
+          "userJID": "6289601871717@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717210538
+        },
+        {
+          "userJID": "6285722753356@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717168569
+        }
+      ]
+    },
+    {
+      "groupJID": "120363023216777185@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6285928157147@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719653809
+        },
+        {
+          "userJID": "6281944615774@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719574046
+        },
+        {
+          "userJID": "6281213136296@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719297447
+        },
+        {
+          "userJID": "60138812368@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719193537
+        },
+        {
+          "userJID": "6282117996085@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719186730
+        },
+        {
+          "userJID": "6281992025448@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719103943
+        },
+        {
+          "userJID": "6281211102045@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719094959
+        },
+        {
+          "userJID": "6282341193123@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719068225
+        },
+        {
+          "userJID": "6281511040443@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718877892
+        },
+        {
+          "userJID": "6281268778532@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718857836
+        },
+        {
+          "userJID": "62895365250291@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718714635
+        },
+        {
+          "userJID": "6285319496495@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718509377
+        },
+        {
+          "userJID": "6283175795394@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718293010
+        },
+        {
+          "userJID": "6281333090745@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717764735
+        },
+        {
+          "userJID": "6287817855460@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1717281821
+        },
+        {
+          "userJID": "6282122690101@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717147639
+        },
+        {
+          "userJID": "6285748057242@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716984938
+        },
+        {
+          "userJID": "6289518249049@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716866456
+        },
+        {
+          "userJID": "6289529529831@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716862107
+        },
+        {
+          "userJID": "6281806732834@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716861335
+        },
+        {
+          "userJID": "6282187723929@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716775879
+        },
+        {
+          "userJID": "6289652757108@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716488779
+        },
+        {
+          "userJID": "6285697676709@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716109124
+        },
+        {
+          "userJID": "6287850222544@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716104807
+        },
+        {
+          "userJID": "6285797896285@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716007551
+        },
+        {
+          "userJID": "6285693574649@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715815120
+        },
+        {
+          "userJID": "6285747333542@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715643851
+        },
+        {
+          "userJID": "6283165183163@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715530735
+        },
+        {
+          "userJID": "6283190281558@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715312847
+        },
+        {
+          "userJID": "6282213361335@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715192160
+        }
+      ]
+    },
+    {
+      "groupJID": "120363153250913877@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "628118848866@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719186183
+        }
+      ]
+    },
+    {
+      "groupJID": "120363042054537024@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6285770257770@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954788
+        },
+        {
+          "userJID": "6285882583251@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954784
+        },
+        {
+          "userJID": "6281238206945@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954776
+        },
+        {
+          "userJID": "6283820880281@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954772
+        },
+        {
+          "userJID": "62881036298790@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954769
+        },
+        {
+          "userJID": "6281336095977@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954766
+        },
+        {
+          "userJID": "6285706776607@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954762
+        },
+        {
+          "userJID": "6281319314428@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954759
+        },
+        {
+          "userJID": "6287828571525@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954755
+        },
+        {
+          "userJID": "6281282772530@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954748
+        },
+        {
+          "userJID": "6285216578894@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954744
+        },
+        {
+          "userJID": "628128670226@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954738
+        },
+        {
+          "userJID": "6285655266200@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954733
+        },
+        {
+          "userJID": "6285746066662@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954729
+        },
+        {
+          "userJID": "6285786911321@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954724
+        },
+        {
+          "userJID": "6281241070120@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954721
+        },
+        {
+          "userJID": "6283856984513@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954714
+        },
+        {
+          "userJID": "6285314871631@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954709
+        },
+        {
+          "userJID": "6281329171511@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954705
+        },
+        {
+          "userJID": "6281330986663@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954701
+        },
+        {
+          "userJID": "6281357617686@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954694
+        },
+        {
+          "userJID": "6281337535235@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954691
+        },
+        {
+          "userJID": "6287820529307@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954687
+        },
+        {
+          "userJID": "6282171254748@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954680
+        },
+        {
+          "userJID": "6281802847340@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954676
+        },
+        {
+          "userJID": "6285779742150@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954672
+        },
+        {
+          "userJID": "62895601301478@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954664
+        },
+        {
+          "userJID": "6282112568663@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954658
+        },
+        {
+          "userJID": "6285903121324@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954654
+        },
+        {
+          "userJID": "6281276038800@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954650
+        },
+        {
+          "userJID": "62816993439@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954647
+        },
+        {
+          "userJID": "6281260418199@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954642
+        },
+        {
+          "userJID": "6281290302033@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954634
+        },
+        {
+          "userJID": "6282113037197@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954630
+        },
+        {
+          "userJID": "6281311104551@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954626
+        },
+        {
+          "userJID": "6281253943963@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954622
+        },
+        {
+          "userJID": "6285234497240@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954611
+        },
+        {
+          "userJID": "628385385438@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954606
+        },
+        {
+          "userJID": "6289518155550@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954602
+        },
+        {
+          "userJID": "6285274661187@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954598
+        },
+        {
+          "userJID": "6282191088984@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954595
+        },
+        {
+          "userJID": "6282375793849@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954590
+        },
+        {
+          "userJID": "6285269353383@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954585
+        },
+        {
+          "userJID": "6285725630369@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954582
+        },
+        {
+          "userJID": "6282386254980@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954579
+        },
+        {
+          "userJID": "6281294490300@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954576
+        },
+        {
+          "userJID": "6281952399790@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954572
+        },
+        {
+          "userJID": "6285232798097@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954562
+        },
+        {
+          "userJID": "6281384683604@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954559
+        },
+        {
+          "userJID": "628978448616@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954555
+        },
+        {
+          "userJID": "6281363115381@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954552
+        },
+        {
+          "userJID": "6285768583454@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954548
+        },
+        {
+          "userJID": "6282292283532@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954543
+        },
+        {
+          "userJID": "6285647718224@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954540
+        },
+        {
+          "userJID": "6285742307796@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954537
+        },
+        {
+          "userJID": "6285715806615@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954532
+        },
+        {
+          "userJID": "6282334860935@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954529
+        },
+        {
+          "userJID": "6281224780743@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954524
+        },
+        {
+          "userJID": "6281275242473@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954521
+        },
+        {
+          "userJID": "6281375684000@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954518
+        },
+        {
+          "userJID": "6285267032019@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954514
+        },
+        {
+          "userJID": "6285749007625@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954511
+        },
+        {
+          "userJID": "6281228483231@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954507
+        },
+        {
+          "userJID": "6285225064914@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954503
+        },
+        {
+          "userJID": "6281818153640@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954500
+        },
+        {
+          "userJID": "6285270192345@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954496
+        },
+        {
+          "userJID": "62881036757999@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954490
+        },
+        {
+          "userJID": "6285293166633@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954487
+        },
+        {
+          "userJID": "6281211919114@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954483
+        },
+        {
+          "userJID": "6285186020007@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954478
+        },
+        {
+          "userJID": "6285770606483@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954474
+        },
+        {
+          "userJID": "6281332700453@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954470
+        },
+        {
+          "userJID": "6281284150790@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954465
+        },
+        {
+          "userJID": "6281326507893@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954461
+        },
+        {
+          "userJID": "6289603014313@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954457
+        },
+        {
+          "userJID": "6281281712242@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954451
+        },
+        {
+          "userJID": "6285713929626@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954443
+        },
+        {
+          "userJID": "6281380407890@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954438
+        },
+        {
+          "userJID": "6288902815762@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954435
+        },
+        {
+          "userJID": "6281272051053@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954432
+        },
+        {
+          "userJID": "6288221595528@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954428
+        },
+        {
+          "userJID": "6285230808080@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954424
+        },
+        {
+          "userJID": "6285810288848@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954421
+        },
+        {
+          "userJID": "6282266945225@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954414
+        },
+        {
+          "userJID": "6282322925323@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954410
+        },
+        {
+          "userJID": "628157140429@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954405
+        },
+        {
+          "userJID": "6281903594888@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954395
+        },
+        {
+          "userJID": "6281215607158@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954390
+        },
+        {
+          "userJID": "6281276056432@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954386
+        },
+        {
+          "userJID": "6281315803081@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954382
+        },
+        {
+          "userJID": "628568789178@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954379
+        },
+        {
+          "userJID": "6285730892052@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954375
+        },
+        {
+          "userJID": "6285641401239@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954372
+        },
+        {
+          "userJID": "6285743626043@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954366
+        },
+        {
+          "userJID": "6281333275266@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954360
+        },
+        {
+          "userJID": "6281249339688@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954357
+        },
+        {
+          "userJID": "6285921958636@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954354
+        },
+        {
+          "userJID": "6282247445993@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954343
+        },
+        {
+          "userJID": "6285780868341@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954340
+        },
+        {
+          "userJID": "6281317185602@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954336
+        },
+        {
+          "userJID": "6285274298187@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954332
+        },
+        {
+          "userJID": "6285659331758@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954329
+        },
+        {
+          "userJID": "6282113737643@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954326
+        },
+        {
+          "userJID": "6285781279421@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954322
+        },
+        {
+          "userJID": "6281288019414@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954317
+        },
+        {
+          "userJID": "6281903403655@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954305
+        },
+        {
+          "userJID": "6281383862002@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954300
+        },
+        {
+          "userJID": "6285732963413@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954296
+        },
+        {
+          "userJID": "6281245000772@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954293
+        },
+        {
+          "userJID": "6281280310110@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954281
+        },
+        {
+          "userJID": "6281231894066@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954277
+        },
+        {
+          "userJID": "6282232153258@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954274
+        },
+        {
+          "userJID": "6285730715110@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954269
+        },
+        {
+          "userJID": "6285877220833@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954266
+        },
+        {
+          "userJID": "6285859939777@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954259
+        },
+        {
+          "userJID": "6285753333157@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954255
+        },
+        {
+          "userJID": "6281386334664@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954252
+        },
+        {
+          "userJID": "628118838839@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954248
+        },
+        {
+          "userJID": "6285786000889@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954240
+        },
+        {
+          "userJID": "6285697885077@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954236
+        },
+        {
+          "userJID": "6283172255595@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954232
+        },
+        {
+          "userJID": "6288270808181@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954229
+        },
+        {
+          "userJID": "628983933286@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954223
+        },
+        {
+          "userJID": "6287842111207@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954220
+        },
+        {
+          "userJID": "6281217016387@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954217
+        },
+        {
+          "userJID": "6285691648779@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954210
+        },
+        {
+          "userJID": "6285779152536@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954206
+        },
+        {
+          "userJID": "628125402048@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954203
+        },
+        {
+          "userJID": "6285390586656@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954197
+        },
+        {
+          "userJID": "6281548131212@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954192
+        },
+        {
+          "userJID": "6285251041726@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954188
+        },
+        {
+          "userJID": "628563000492@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954183
+        },
+        {
+          "userJID": "6282115552824@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954179
+        },
+        {
+          "userJID": "6281914115411@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954176
+        },
+        {
+          "userJID": "6288226496639@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954171
+        },
+        {
+          "userJID": "6285227890590@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954168
+        },
+        {
+          "userJID": "628116123117@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954164
+        },
+        {
+          "userJID": "6285379982387@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954160
+        },
+        {
+          "userJID": "6281332295907@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954157
+        },
+        {
+          "userJID": "6282126659592@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954152
+        },
+        {
+          "userJID": "6285162654545@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954148
+        },
+        {
+          "userJID": "6282146901881@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954140
+        },
+        {
+          "userJID": "6282169312602@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954137
+        },
+        {
+          "userJID": "6281291155746@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954134
+        },
+        {
+          "userJID": "6282223331565@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954130
+        },
+        {
+          "userJID": "6281234409276@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954127
+        },
+        {
+          "userJID": "6282121214694@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954124
+        },
+        {
+          "userJID": "6285335275792@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954120
+        },
+        {
+          "userJID": "6281223217023@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954116
+        },
+        {
+          "userJID": "6282360638865@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954112
+        },
+        {
+          "userJID": "6282220663771@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954107
+        },
+        {
+          "userJID": "6281329999010@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954101
+        },
+        {
+          "userJID": "6285231546559@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954096
+        },
+        {
+          "userJID": "6285334448184@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954093
+        },
+        {
+          "userJID": "6285210114860@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954089
+        },
+        {
+          "userJID": "6281216785343@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954084
+        },
+        {
+          "userJID": "628179618395@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954081
+        },
+        {
+          "userJID": "6285930453559@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954077
+        },
+        {
+          "userJID": "6283834930574@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954074
+        },
+        {
+          "userJID": "6282123112312@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954070
+        },
+        {
+          "userJID": "6281271328519@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954062
+        },
+        {
+          "userJID": "6285161790851@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954059
+        },
+        {
+          "userJID": "6285775995675@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954055
+        },
+        {
+          "userJID": "6281363651195@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954052
+        },
+        {
+          "userJID": "6282310912005@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954048
+        },
+        {
+          "userJID": "6285811502508@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954044
+        },
+        {
+          "userJID": "6281368440313@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954039
+        },
+        {
+          "userJID": "6282112358356@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954036
+        },
+        {
+          "userJID": "6281297291131@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954032
+        },
+        {
+          "userJID": "62895375740318@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954029
+        },
+        {
+          "userJID": "62895618371789@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954026
+        },
+        {
+          "userJID": "6283111845717@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954022
+        },
+        {
+          "userJID": "62816566940@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954018
+        },
+        {
+          "userJID": "6281333094454@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954015
+        },
+        {
+          "userJID": "6282233332481@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954012
+        },
+        {
+          "userJID": "6287808079881@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954008
+        },
+        {
+          "userJID": "6281381344446@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716954005
+        },
+        {
+          "userJID": "6282346648665@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953997
+        },
+        {
+          "userJID": "6282143444014@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953994
+        },
+        {
+          "userJID": "62882007735279@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953989
+        },
+        {
+          "userJID": "6281545373651@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953986
+        },
+        {
+          "userJID": "6281380898819@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953981
+        },
+        {
+          "userJID": "6287887374000@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953977
+        },
+        {
+          "userJID": "6281249767094@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953972
+        },
+        {
+          "userJID": "6285606644440@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953964
+        },
+        {
+          "userJID": "6282155175243@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953960
+        },
+        {
+          "userJID": "6282155468333@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953954
+        },
+        {
+          "userJID": "6281382719995@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953950
+        },
+        {
+          "userJID": "12815227105@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953946
+        },
+        {
+          "userJID": "6281388606329@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953941
+        },
+        {
+          "userJID": "6281802851610@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953937
+        },
+        {
+          "userJID": "6281266999222@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953933
+        },
+        {
+          "userJID": "628970547123@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953928
+        },
+        {
+          "userJID": "6282110183005@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953922
+        },
+        {
+          "userJID": "6285782273832@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953919
+        },
+        {
+          "userJID": "6283812568825@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953916
+        },
+        {
+          "userJID": "6285645014106@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953912
+        },
+        {
+          "userJID": "6281295570482@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953909
+        },
+        {
+          "userJID": "6281232793306@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953906
+        },
+        {
+          "userJID": "6282230016877@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953902
+        },
+        {
+          "userJID": "62895417910489@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953898
+        },
+        {
+          "userJID": "6281327298691@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953890
+        },
+        {
+          "userJID": "6281939816860@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953886
+        },
+        {
+          "userJID": "6282112923040@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953882
+        },
+        {
+          "userJID": "6281219504240@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953878
+        },
+        {
+          "userJID": "6288210511358@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953875
+        },
+        {
+          "userJID": "6285232677417@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953871
+        },
+        {
+          "userJID": "628126791173@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953867
+        },
+        {
+          "userJID": "6281336666818@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953863
+        },
+        {
+          "userJID": "6281294048751@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953859
+        },
+        {
+          "userJID": "6285607756488@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953855
+        },
+        {
+          "userJID": "6281284872528@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953852
+        },
+        {
+          "userJID": "6285105456367@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953846
+        },
+        {
+          "userJID": "6282334218964@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953842
+        },
+        {
+          "userJID": "6285291372750@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953836
+        },
+        {
+          "userJID": "6281290437740@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953828
+        },
+        {
+          "userJID": "6282227179000@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953823
+        },
+        {
+          "userJID": "6281318238662@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953817
+        },
+        {
+          "userJID": "6282244147676@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953811
+        },
+        {
+          "userJID": "6281271683818@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953808
+        },
+        {
+          "userJID": "6281338233957@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953805
+        },
+        {
+          "userJID": "6285785573900@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953801
+        },
+        {
+          "userJID": "6287732641335@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953797
+        },
+        {
+          "userJID": "6285299686451@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953794
+        },
+        {
+          "userJID": "6285747735618@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953790
+        },
+        {
+          "userJID": "6282375336060@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953785
+        },
+        {
+          "userJID": "6281390035168@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953782
+        },
+        {
+          "userJID": "6281388388032@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953777
+        },
+        {
+          "userJID": "6281231325549@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953774
+        },
+        {
+          "userJID": "6281216681611@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953770
+        },
+        {
+          "userJID": "628978155125@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953766
+        },
+        {
+          "userJID": "6281946761168@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953763
+        },
+        {
+          "userJID": "6289520015009@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953758
+        },
+        {
+          "userJID": "6281393919701@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953754
+        },
+        {
+          "userJID": "628978999867@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953746
+        },
+        {
+          "userJID": "62895361711907@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953743
+        },
+        {
+          "userJID": "6285275102703@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953739
+        },
+        {
+          "userJID": "628976660658@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953736
+        },
+        {
+          "userJID": "6281314944677@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953730
+        },
+        {
+          "userJID": "6287887864859@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953726
+        },
+        {
+          "userJID": "6282234443627@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953723
+        },
+        {
+          "userJID": "6281217565245@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953720
+        },
+        {
+          "userJID": "6281287775478@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953705
+        },
+        {
+          "userJID": "6285640304451@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953700
+        },
+        {
+          "userJID": "6289696825850@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953689
+        },
+        {
+          "userJID": "6285255655105@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953685
+        },
+        {
+          "userJID": "6281325632218@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953678
+        },
+        {
+          "userJID": "6287834454446@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953671
+        },
+        {
+          "userJID": "6281265314295@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953668
+        },
+        {
+          "userJID": "6281342678073@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953664
+        },
+        {
+          "userJID": "62895604837006@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953661
+        },
+        {
+          "userJID": "6285732415622@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953657
+        },
+        {
+          "userJID": "6282313344488@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953652
+        },
+        {
+          "userJID": "6285267190725@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953648
+        },
+        {
+          "userJID": "6281213458032@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953641
+        },
+        {
+          "userJID": "6281213730129@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953636
+        },
+        {
+          "userJID": "6285648004081@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953632
+        },
+        {
+          "userJID": "6282265027068@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953629
+        },
+        {
+          "userJID": "6285273337916@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953624
+        },
+        {
+          "userJID": "6289506419785@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953620
+        },
+        {
+          "userJID": "6281299865215@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953617
+        },
+        {
+          "userJID": "6285708207007@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953613
+        },
+        {
+          "userJID": "6285230635389@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953607
+        },
+        {
+          "userJID": "6285781149745@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953603
+        },
+        {
+          "userJID": "6282135790394@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953597
+        },
+        {
+          "userJID": "6281299363289@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953594
+        },
+        {
+          "userJID": "6281391583768@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953590
+        },
+        {
+          "userJID": "6289508000100@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953584
+        },
+        {
+          "userJID": "6285735888288@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953581
+        },
+        {
+          "userJID": "6281365963227@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953574
+        },
+        {
+          "userJID": "6285736676701@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953571
+        },
+        {
+          "userJID": "6281373312995@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953559
+        },
+        {
+          "userJID": "6282161152152@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953554
+        },
+        {
+          "userJID": "6287888437560@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953545
+        },
+        {
+          "userJID": "6287878303863@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953540
+        },
+        {
+          "userJID": "6281255115758@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953536
+        },
+        {
+          "userJID": "6285655061384@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953533
+        },
+        {
+          "userJID": "6282133893202@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953528
+        },
+        {
+          "userJID": "6282334378682@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953524
+        },
+        {
+          "userJID": "6282168886555@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953520
+        },
+        {
+          "userJID": "6285781755717@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953517
+        },
+        {
+          "userJID": "6285817871348@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953513
+        },
+        {
+          "userJID": "6285624248006@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953508
+        },
+        {
+          "userJID": "6281343609331@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953504
+        },
+        {
+          "userJID": "6282219911283@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953488
+        },
+        {
+          "userJID": "6289524323338@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953484
+        },
+        {
+          "userJID": "6285695806616@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953478
+        },
+        {
+          "userJID": "6285319281969@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953471
+        },
+        {
+          "userJID": "6281353281009@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953464
+        },
+        {
+          "userJID": "6285156984123@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953459
+        },
+        {
+          "userJID": "6282233644051@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953455
+        },
+        {
+          "userJID": "62895634936879@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953452
+        },
+        {
+          "userJID": "6285964186759@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953447
+        },
+        {
+          "userJID": "6285742448358@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953443
+        },
+        {
+          "userJID": "6285716001663@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953439
+        },
+        {
+          "userJID": "6283148948080@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953435
+        },
+        {
+          "userJID": "6285740079992@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953431
+        },
+        {
+          "userJID": "6285219364870@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953428
+        },
+        {
+          "userJID": "6289601871717@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953423
+        },
+        {
+          "userJID": "6287754055755@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953419
+        },
+        {
+          "userJID": "628176044769@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953415
+        },
+        {
+          "userJID": "62895811281900@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953411
+        },
+        {
+          "userJID": "6282125206276@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953406
+        },
+        {
+          "userJID": "6285806184771@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953401
+        },
+        {
+          "userJID": "6281915300201@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953391
+        },
+        {
+          "userJID": "6285378640321@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953387
+        },
+        {
+          "userJID": "6281234675219@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953383
+        },
+        {
+          "userJID": "6287874435314@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953379
+        },
+        {
+          "userJID": "6285363084484@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953364
+        },
+        {
+          "userJID": "6285850653129@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953359
+        },
+        {
+          "userJID": "6281999985997@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953354
+        },
+        {
+          "userJID": "6285863781995@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953351
+        },
+        {
+          "userJID": "6285602515602@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953336
+        },
+        {
+          "userJID": "628194380455@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953331
+        },
+        {
+          "userJID": "6285311997733@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953326
+        },
+        {
+          "userJID": "6285645453111@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953319
+        },
+        {
+          "userJID": "6285370636783@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953315
+        },
+        {
+          "userJID": "6281355677177@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953306
+        },
+        {
+          "userJID": "62895613423730@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953302
+        },
+        {
+          "userJID": "6287877232531@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953297
+        },
+        {
+          "userJID": "6281222389811@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953291
+        },
+        {
+          "userJID": "6281564644740@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953285
+        },
+        {
+          "userJID": "6281232559433@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953277
+        },
+        {
+          "userJID": "6282398181604@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953268
+        },
+        {
+          "userJID": "6285739066459@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953264
+        },
+        {
+          "userJID": "6282311181805@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953260
+        },
+        {
+          "userJID": "6285780450051@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953256
+        },
+        {
+          "userJID": "6281330293036@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953251
+        },
+        {
+          "userJID": "6285763152917@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953247
+        },
+        {
+          "userJID": "6282322566207@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953241
+        },
+        {
+          "userJID": "6285659783454@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953236
+        },
+        {
+          "userJID": "6281343273117@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953231
+        },
+        {
+          "userJID": "62881022377793@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953227
+        },
+        {
+          "userJID": "6281310969656@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953223
+        },
+        {
+          "userJID": "6285104000328@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716953218
+        },
+        {
+          "userJID": "6281295448570@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716900149
+        },
+        {
+          "userJID": "6282110749047@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716873405
+        },
+        {
+          "userJID": "6285697132301@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716865398
+        },
+        {
+          "userJID": "6281379205810@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716862704
+        },
+        {
+          "userJID": "6285882572196@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716858104
+        },
+        {
+          "userJID": "6281367767877@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716857701
+        },
+        {
+          "userJID": "6285647018756@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716857460
+        },
+        {
+          "userJID": "6281510069269@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716730604
+        },
+        {
+          "userJID": "6281284594188@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716712130
+        },
+        {
+          "userJID": "6282124167197@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1716496411
+        },
+        {
+          "userJID": "6282225488188@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716374353
+        },
+        {
+          "userJID": "62818755547@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716104658
+        },
+        {
+          "userJID": "6281222318394@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715432285
+        },
+        {
+          "userJID": "6287727550876@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715421288
+        },
+        {
+          "userJID": "6281281080963@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715415478
+        },
+        {
+          "userJID": "6282383998854@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715321668
+        },
+        {
+          "userJID": "6285730704540@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715320472
+        },
+        {
+          "userJID": "6282160829456@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715300899
+        },
+        {
+          "userJID": "6281343192149@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715139187
+        },
+        {
+          "userJID": "6281376509889@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715012465
+        },
+        {
+          "userJID": "6285713000051@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715006880
+        }
+      ]
+    },
+    {
+      "groupJID": "62895611092400-1595492609@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6282284486777@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717935658
+        },
+        {
+          "userJID": "628179435576@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716690419
+        }
+      ]
+    },
+    {
+      "groupJID": "6281386589776-1584517239@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6285710346801@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715600207
+        },
+        {
+          "userJID": "628122729452@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715156972
+        }
+      ]
+    },
+    {
+      "groupJID": "6285156347340-1603717082@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6285604414940@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715643949
+        },
+        {
+          "userJID": "6282389094732@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715576881
+        }
+      ]
+    },
+    {
+      "groupJID": "120363297030748587@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6287885580332@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719932576
+        },
+        {
+          "userJID": "6282311862629@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718203995
+        },
+        {
+          "userJID": "6281915511227@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715766470
+        }
+      ]
+    },
+    {
+      "groupJID": "120363047590673517@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "628128512976@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719279026
+        },
+        {
+          "userJID": "628128143121@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718637423
+        }
+      ]
+    },
+    {
+      "groupJID": "120363026468587239@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "628977077830@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719271950
+        },
+        {
+          "userJID": "6282177569783@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717375253
+        },
+        {
+          "userJID": "6281273211848@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717065408
+        },
+        {
+          "userJID": "6281232041787@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716747900
+        },
+        {
+          "userJID": "628113034366@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716715226
+        },
+        {
+          "userJID": "6282262585003@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1714862404
+        }
+      ]
+    },
+    {
+      "groupJID": "120363166531019192@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "628567927766@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719913364
+        },
+        {
+          "userJID": "6281317286161@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719807359
+        },
+        {
+          "userJID": "6281572262006@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719761434
+        },
+        {
+          "userJID": "6285877112229@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719413057
+        },
+        {
+          "userJID": "6285751281528@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719192736
+        },
+        {
+          "userJID": "628895760737@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1719069500
+        },
+        {
+          "userJID": "6281214946400@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718293747
+        },
+        {
+          "userJID": "6289623170702@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718106965
+        },
+        {
+          "userJID": "62859102860329@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718093549
+        },
+        {
+          "userJID": "628977767970@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1718084251
+        },
+        {
+          "userJID": "6285771071120@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717864252
+        },
+        {
+          "userJID": "6281250528190@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717757851
+        },
+        {
+          "userJID": "6281386743546@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717757445
+        },
+        {
+          "userJID": "6287722272220@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717747055
+        },
+        {
+          "userJID": "62895388871020@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717662682
+        },
+        {
+          "userJID": "6282386844547@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717571661
+        },
+        {
+          "userJID": "6285186890397@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717550040
+        },
+        {
+          "userJID": "62895632387272@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717482284
+        },
+        {
+          "userJID": "6281365748222@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717217895
+        },
+        {
+          "userJID": "6281212293731@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717138667
+        },
+        {
+          "userJID": "6285772492132@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1717034528
+        },
+        {
+          "userJID": "628976801520@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716444377
+        },
+        {
+          "userJID": "628117055724@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716349622
+        },
+        {
+          "userJID": "6281230043084@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716347205
+        },
+        {
+          "userJID": "6287786335577@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716346958
+        },
+        {
+          "userJID": "6285348204146@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716290920
+        },
+        {
+          "userJID": "6285262369610@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716176313
+        },
+        {
+          "userJID": "6281315315188@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716116766
+        },
+        {
+          "userJID": "62895322389331@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716099720
+        },
+        {
+          "userJID": "6285882572167@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1716079193
+        },
+        {
+          "userJID": "6289676474246@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591215
+        },
+        {
+          "userJID": "6289677369369@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591209
+        },
+        {
+          "userJID": "628119726666@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591196
+        },
+        {
+          "userJID": "628124494242@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591189
+        },
+        {
+          "userJID": "6281282361396@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591180
+        },
+        {
+          "userJID": "6287819870711@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591169
+        },
+        {
+          "userJID": "6282121658676@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1715591141
+        },
+        {
+          "userJID": "6281333248897@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715582358
+        },
+        {
+          "userJID": "6285822484737@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715578136
+        },
+        {
+          "userJID": "6285324447264@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715568019
+        },
+        {
+          "userJID": "6281553967730@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715567445
+        },
+        {
+          "userJID": "6282111616113@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715567052
+        },
+        {
+          "userJID": "6281310524051@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715566883
+        },
+        {
+          "userJID": "6282237601002@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715563959
+        },
+        {
+          "userJID": "6285271550816@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715262762
+        },
+        {
+          "userJID": "62816267074@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1714904507
+        },
+        {
+          "userJID": "6285262770103@s.whatsapp.net",
+          "leaveReason": 1,
+          "leaveTS": 1714866727
+        },
+        {
+          "userJID": "6281294003653@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1714859996
+        },
+        {
+          "userJID": "6289528697211@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1714857547
+        }
+      ]
+    },
+    {
+      "groupJID": "120363044211495492@g.us",
+      "pastParticipants": [
+        {
+          "userJID": "6281261247252@s.whatsapp.net",
+          "leaveReason": 0,
+          "leaveTS": 1715130543
+        }
+      ]
+    }
+  ]
+}

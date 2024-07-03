@@ -1,0 +1,78 @@
+{
+  "syncType": 1,
+  "statusV3Messages": [
+    {
+      "key": {
+        "remoteJID": "status@broadcast",
+        "fromMe": false,
+        "ID": "03982A962FAF27EC4F9853F61F1D019F"
+      },
+      "message": {
+        "imageMessage": {
+          "URL": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-bc9a2dd7-798f-417a-8397-0fc6858a06ff?ccb=9-4\u0026oh=01_Q5AaIIC7c-WV9_Lgppw4UhYfouLmm8EZTKwZbDBSSoyqZZJr\u0026oe=66AC0436\u0026_nc_sid=000000\u0026mms3=true",
+          "mimetype": "image/jpeg",
+          "caption": "Mamak tugas dulu ya cinta2ku... 😘😘",
+          "fileSHA256": "DksdH3O/qNzINNq6bpDa8Gggghb5zxk963QbGVQngx8=",
+          "fileLength": 44980,
+          "height": 1000,
+          "width": 563,
+          "mediaKey": "0+eUs97IvNssiqmWEXChAsAew/BzNOc19lReUhl7CkM=",
+          "fileEncSHA256": "SEwe1u0dmVlt9EFsq4AqSUFaqmA368IDk2CQyJX1GEw=",
+          "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-bc9a2dd7-798f-417a-8397-0fc6858a06ff?ccb=9-4\u0026oh=01_Q5AaIIC7c-WV9_Lgppw4UhYfouLmm8EZTKwZbDBSSoyqZZJr\u0026oe=66AC0436\u0026_nc_sid=000000",
+          "mediaKeyTimestamp": 1719967858,
+          "scansSidecar": "m861zJkkJ1iZSsCXVmd6jngpj8p5eh81VEnZFBn0RgQwp+Z7HSnxEg==",
+          "scanLengths": [
+            5426,
+            14831,
+            9311,
+            15412
+          ],
+          "midQualityFileSHA256": "/EAu/DcZsE91sgABOrkZM6S13IMKqYcWKtxRTcFKo0k="
+        }
+      },
+      "messageTimestamp": 1719967868,
+      "participant": "6285811738488@s.whatsapp.net",
+      "mediaData": {
+        "localPath": "Media/.Statuses/498af0002bf7427195791e545d6335b1.jpg"
+      },
+      "reportingTokenInfo": {
+        "reportingTag": "AaG8ctv5Q7dOHZ0NotorhA=="
+      },
+      "isMentionedInStatus": false
+    },
+    {
+      "key": {
+        "remoteJID": "status@broadcast",
+        "fromMe": false,
+        "ID": "3ABD9D4BA108506C907B9618FF08CAAE"
+      },
+      "message": {
+        "imageMessage": {
+          "URL": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-28fb81d3-55d2-4492-bc46-032dfcd519e0?ccb=9-4\u0026oh=01_Q5AaICCJzq4zULo23DnfQsJbwqF97_t0D1LYZj0qwmsHcnhn\u0026oe=66AB52F6\u0026_nc_sid=000000\u0026mms3=true",
+          "mimetype": "image/jpeg",
+          "caption": "Happy ya mass💙💙💙",
+          "fileSHA256": "w2ztUyTWhVATX0Q+/CNw78qy1ruwxlsjhCcbOAwrO14=",
+          "fileLength": 162179,
+          "height": 1280,
+          "width": 960,
+          "mediaKey": "kLe2OH86ZZWMrGIiFh6sBbGj0REiOxBhZydBHmFBoUk=",
+          "fileEncSHA256": "QmAC8ApUnksqLT2iL+FMGxyAn+zZiKAE0cWUqLT3sPc=",
+          "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-28fb81d3-55d2-4492-bc46-032dfcd519e0?ccb=9-4\u0026oh=01_Q5AaICCJzq4zULo23DnfQsJbwqF97_t0D1LYZj0qwmsHcnhn\u0026oe=66AB52F6\u0026_nc_sid=000000",
+          "mediaKeyTimestamp": 1719735925,
+          "thumbnailDirectPath": "/v/t62.35850-24/21324105_1133217194578962_2739018719524583580_n.enc?ccb=11-4\u0026oh=01_Q5AaIGX8yAB4QZFCb0JoedfOj1ooyWjDzNzx0kZQBOAZUeXc\u0026oe=66AB39B6\u0026_nc_sid=5e03e0",
+          "thumbnailSHA256": "UXG7ChG/GWa/u7q+lYBqOJP6FHV3xjm9FCBWwe+9KMo=",
+          "thumbnailEncSHA256": "bDQuKmI+S5bKMwLB17ehhjA2h+EQC3qubNu7vNZIcKM="
+        }
+      },
+      "messageTimestamp": 1719913212,
+      "participant": "6285885476474@s.whatsapp.net",
+      "mediaData": {
+        "localPath": "Media/.Statuses/cfe4214b337f44dcb35d84270ef9c168.jpg"
+      },
+      "reportingTokenInfo": {
+        "reportingTag": "AaH4PfX0Px0st15Y1a3pgw=="
+      },
+      "isMentionedInStatus": false
+    }
+  ]
+}
